@@ -1,0 +1,377 @@
+header {
+    border: 5px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+li {
+
+}
+
+.headerrr {
+    justify-content: center;
+    border: 5px solid black;
+    background-color: lightgoldenrodyellow;
+    display: flex;
+    align-self: stretch;
+}
+
+
+.buttonreg {
+    display: block;
+    margin: 6px;
+    text-decoration: none;
+}
+
+footer {
+    border: 5px solid red;
+    width: 85%;
+}
+
+main {
+    height: 100%;
+    padding-bottom: 90px;
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body {
+    position: relative;
+    min-height: 100%;
+    background-color: rgb(206, 235, 251);
+    height: 100%;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+aside {
+
+}
+
+.showall {
+    display: block;
+}
+
+
+
+
+section {
+    display: flex;
+
+}
+
+
+.mainimg {
+    display: block;
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+
+form {
+        display: flex;
+}
+
+.mainnav {
+    list-style-type: none;
+    display: flex;
+
+}
+
+.mainform {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+}
+
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 85%;
+    border: 5px solid lightyellow;
+    flex-flow: row wrap;
+    flex-basis: 50%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.catimg {
+    max-width: 150px;
+}
+
+.acat {
+    text-decoration: none;
+}
+
+
+
+
+
+figure {
+
+}
+
+
+
+.mainimgfigure {
+    border: 3px solid red;
+    width: 85%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+
+
+.saleimg {
+    max-width: 150px;
+}
+
+.saleblock {
+    border: 5px solid yellow;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.salefigure {
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.news {
+    border: 5px solid blue;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.showallbutton {
+    width: 150px;
+    height: 30px;
+}
+
+.btnheader {
+    display: block;
+    width: 50%;
+    height: 100%;
+    margin: 3px;
+}
+
+.trustimg {
+    border-radius: 50%;
+    max-width: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.wetrust {
+    display: flex;
+    justify-content: space-around;
+    width: 85%;
+    flex-flow: row wrap;
+    border: 5px solid green;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.pretext {
+    display: block;
+}
+
+.about {
+    display: flex;
+    width: 85%;
+    flex-flow: column wrap;
+    border: 5px solid black;
+    margin-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.zagolovok {
+    margin-left: 3px;
+}
+
+.itemsale {
+    width: 100%;
+    height: 25px;
+}
+
+
+
+.header1 {
+
+}
+
+.logoimg {
+    display: inline-block;
+}
+
+.navcat {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.reglog {
+    display: flex;
+    flex-flow: row;
+    margin: 3px;
+}
+
+.logonav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 5px solid green;
+    width: 85%;
+
+}
+
+.inputvalue {
+    width: 50%;
+    height: 100%;
+    margin: 3px;
+}
+
+.btnshdr {
+    clear: both;
+}
+
+.inputs {
+    display: flex;
+    flex-flow: row;
+    margin: 3px;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    width: 85%;
+    flex-direction: row;
+}
+
+.text {
+    width: 85%;
+    margin: 3px;
+}
+
+.btnsearch {
+    width: 20%;
+    height: 100%;
+    margin: 3px;
+}
+
+.hsale {
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+}
+
+.sectionsale {
+    display: flex;
+    width: 85%;
+    border: 5px solid blue;
+}
+
+.hh2 {
+    margin-left: 3px;
+}
+
+
+
+.btnshowall {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.hnews {
+
+}
+
+.newsp {
+    border: 5px solid black;
+}
+
+.footernav {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    width: 85%;
+}
+
+
+
+.footera {
+    text-decoration: none;
+}
+
+.aheader {
+    text-decoration: none;
+}
+
+.footerli {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.footerfooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    flex-direction: column;
+}
+
+.copyright {
+    width: 85%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+.copyr {
+    margin-left: 45%;
+    margin-right: 40%;
+}
+
+.abouttext {
+    margin-left: 3px;
+}
+
+.withoutheader {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.trustimgdiv {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.catfigure {
+    border: 3px solid blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
